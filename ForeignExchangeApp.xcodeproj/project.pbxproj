@@ -66,8 +66,8 @@
 		B80849E725E16C6D00AB9B36 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				B80849E825E16C6D00AB9B36 /* Preview Assets.xcassets */,
 				B80849FB25E35DF600AB9B36 /* Currency rates.swift */,
+				B80849E825E16C6D00AB9B36 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";

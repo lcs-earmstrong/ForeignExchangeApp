@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct rates: Decodable {
+struct Rates: Decodable {
     let CAD: Int
     let HKD: Int
     let ISK: Int
@@ -41,5 +41,6 @@ struct rates: Decodable {
     let KRW: Int
     let MYR: Int
     let base: String
+    let date: Int
     
 }
